@@ -1,0 +1,313 @@
+﻿AREARES,Area of Residence,TLIST(A1),Year,STATISTIC,Statistic Label,UNIT,VALUE
+01,Great Britain,1983,1983,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,179
+01,Great Britain,1983,1983,TMA06C2,Visitors to Ireland,Thousand,1129
+01,Great Britain,1983,1983,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,8.4
+01,Great Britain,1984,1984,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,194
+01,Great Britain,1984,1984,TMA06C2,Visitors to Ireland,Thousand,1188
+01,Great Britain,1984,1984,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,8.6
+01,Great Britain,1985,1985,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,206
+01,Great Britain,1985,1985,TMA06C2,Visitors to Ireland,Thousand,1104
+01,Great Britain,1985,1985,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,8.7
+01,Great Britain,1986,1986,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,216
+01,Great Britain,1986,1986,TMA06C2,Visitors to Ireland,Thousand,1084
+01,Great Britain,1986,1986,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,8.4
+01,Great Britain,1987,1987,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,253
+01,Great Britain,1987,1987,TMA06C2,Visitors to Ireland,Thousand,1209
+01,Great Britain,1987,1987,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,8
+01,Great Britain,1988,1988,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,317
+01,Great Britain,1988,1988,TMA06C2,Visitors to Ireland,Thousand,1465
+01,Great Britain,1988,1988,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.5
+01,Great Britain,1989,1989,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,362
+01,Great Britain,1989,1989,TMA06C2,Visitors to Ireland,Thousand,1668
+01,Great Britain,1989,1989,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.6
+01,Great Britain,1990,1990,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,408
+01,Great Britain,1990,1990,TMA06C2,Visitors to Ireland,Thousand,1786
+01,Great Britain,1990,1990,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.6
+01,Great Britain,1991,1991,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,422
+01,Great Britain,1991,1991,TMA06C2,Visitors to Ireland,Thousand,1729
+01,Great Britain,1991,1991,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.9
+01,Great Britain,1992,1992,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,409
+01,Great Britain,1992,1992,TMA06C2,Visitors to Ireland,Thousand,1758
+01,Great Britain,1992,1992,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.7
+01,Great Britain,1993,1993,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,452
+01,Great Britain,1993,1993,TMA06C2,Visitors to Ireland,Thousand,1887
+01,Great Britain,1993,1993,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7.1
+01,Great Britain,1994,1994,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,540
+01,Great Britain,1994,1994,TMA06C2,Visitors to Ireland,Thousand,2087
+01,Great Britain,1994,1994,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,7
+01,Great Britain,1995,1995,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,608
+01,Great Britain,1995,1995,TMA06C2,Visitors to Ireland,Thousand,2365
+01,Great Britain,1995,1995,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,6.6
+01,Great Britain,1996,1996,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,701
+01,Great Britain,1996,1996,TMA06C2,Visitors to Ireland,Thousand,2698
+01,Great Britain,1996,1996,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,6.9
+01,Great Britain,1997,1997,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,847
+01,Great Britain,1997,1997,TMA06C2,Visitors to Ireland,Thousand,3025
+01,Great Britain,1997,1997,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,6.8
+01,Great Britain,1998,1998,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,938
+01,Great Britain,1998,1998,TMA06C2,Visitors to Ireland,Thousand,3383
+01,Great Britain,1998,1998,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,6.3
+01,Great Britain,1999,1999,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,968
+01,Great Britain,1999,1999,TMA06C2,Visitors to Ireland,Thousand,3558
+01,Great Britain,1999,1999,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5.8
+01,Great Britain,2000,2000,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1042
+01,Great Britain,2000,2000,TMA06C2,Visitors to Ireland,Thousand,3559
+01,Great Britain,2000,2000,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5.7
+01,Great Britain,2001,2001,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1163
+01,Great Britain,2001,2001,TMA06C2,Visitors to Ireland,Thousand,3462
+01,Great Britain,2001,2001,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5.6
+01,Great Britain,2002,2002,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1251
+01,Great Britain,2002,2002,TMA06C2,Visitors to Ireland,Thousand,3579
+01,Great Britain,2002,2002,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5.3
+01,Great Britain,2003,2003,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1295
+01,Great Britain,2003,2003,TMA06C2,Visitors to Ireland,Thousand,3719
+01,Great Britain,2003,2003,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5.2
+01,Great Britain,2004,2004,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1253
+01,Great Britain,2004,2004,TMA06C2,Visitors to Ireland,Thousand,3681
+01,Great Britain,2004,2004,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,5
+01,Great Britain,2005,2005,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1257
+01,Great Britain,2005,2005,TMA06C2,Visitors to Ireland,Thousand,3822
+01,Great Britain,2005,2005,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,4.8
+01,Great Britain,2006,2006,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1373
+01,Great Britain,2006,2006,TMA06C2,Visitors to Ireland,Thousand,4060
+01,Great Britain,2006,2006,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,4.8
+01,Great Britain,2007,2007,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1388
+01,Great Britain,2007,2007,TMA06C2,Visitors to Ireland,Thousand,4032
+01,Great Britain,2007,2007,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,4.7
+01,Great Britain,2008,2008,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1355
+01,Great Britain,2008,2008,TMA06C2,Visitors to Ireland,Thousand,3872
+01,Great Britain,2008,2008,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,4.8
+02,Other Europe,1983,1983,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,86
+02,Other Europe,1983,1983,TMA06C2,Visitors to Ireland,Thousand,298
+02,Other Europe,1983,1983,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.8
+02,Other Europe,1984,1984,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,89
+02,Other Europe,1984,1984,TMA06C2,Visitors to Ireland,Thousand,298
+02,Other Europe,1984,1984,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.8
+02,Other Europe,1985,1985,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,107
+02,Other Europe,1985,1985,TMA06C2,Visitors to Ireland,Thousand,326
+02,Other Europe,1985,1985,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.8
+02,Other Europe,1986,1986,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,109
+02,Other Europe,1986,1986,TMA06C2,Visitors to Ireland,Thousand,326
+02,Other Europe,1986,1986,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13
+02,Other Europe,1987,1987,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,132
+02,Other Europe,1987,1987,TMA06C2,Visitors to Ireland,Thousand,382
+02,Other Europe,1987,1987,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.4
+02,Other Europe,1988,1988,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,155
+02,Other Europe,1988,1988,TMA06C2,Visitors to Ireland,Thousand,398
+02,Other Europe,1988,1988,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12
+02,Other Europe,1989,1989,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,201
+02,Other Europe,1989,1989,TMA06C2,Visitors to Ireland,Thousand,538
+02,Other Europe,1989,1989,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.8
+02,Other Europe,1990,1990,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,312
+02,Other Europe,1990,1990,TMA06C2,Visitors to Ireland,Thousand,731
+02,Other Europe,1990,1990,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.6
+02,Other Europe,1991,1991,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,387
+02,Other Europe,1991,1991,TMA06C2,Visitors to Ireland,Thousand,824
+02,Other Europe,1991,1991,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.3
+02,Other Europe,1992,1992,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,405
+02,Other Europe,1992,1992,TMA06C2,Visitors to Ireland,Thousand,855
+02,Other Europe,1992,1992,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.7
+02,Other Europe,1993,1993,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,500
+02,Other Europe,1993,1993,TMA06C2,Visitors to Ireland,Thousand,924
+02,Other Europe,1993,1993,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.6
+02,Other Europe,1994,1994,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,465
+02,Other Europe,1994,1994,TMA06C2,Visitors to Ireland,Thousand,970
+02,Other Europe,1994,1994,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12
+02,Other Europe,1995,1995,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,519
+02,Other Europe,1995,1995,TMA06C2,Visitors to Ireland,Thousand,1085
+02,Other Europe,1995,1995,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.5
+02,Other Europe,1996,1996,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,587
+02,Other Europe,1996,1996,TMA06C2,Visitors to Ireland,Thousand,1164
+02,Other Europe,1996,1996,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.8
+02,Other Europe,1997,1997,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,576
+02,Other Europe,1997,1997,TMA06C2,Visitors to Ireland,Thousand,1175
+02,Other Europe,1997,1997,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.3
+02,Other Europe,1998,1998,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,585
+02,Other Europe,1998,1998,TMA06C2,Visitors to Ireland,Thousand,1262
+02,Other Europe,1998,1998,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.8
+02,Other Europe,1999,1999,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,623
+02,Other Europe,1999,1999,TMA06C2,Visitors to Ireland,Thousand,1333
+02,Other Europe,1999,1999,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.3
+02,Other Europe,2000,2000,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,721
+02,Other Europe,2000,2000,TMA06C2,Visitors to Ireland,Thousand,1453
+02,Other Europe,2000,2000,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10
+02,Other Europe,2001,2001,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,810
+02,Other Europe,2001,2001,TMA06C2,Visitors to Ireland,Thousand,1357
+02,Other Europe,2001,2001,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.1
+02,Other Europe,2002,2002,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,862
+02,Other Europe,2002,2002,TMA06C2,Visitors to Ireland,Thousand,1392
+02,Other Europe,2002,2002,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.2
+02,Other Europe,2003,2003,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,884
+02,Other Europe,2003,2003,TMA06C2,Visitors to Ireland,Thousand,1497
+02,Other Europe,2003,2003,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.1
+02,Other Europe,2004,2004,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,927
+02,Other Europe,2004,2004,TMA06C2,Visitors to Ireland,Thousand,1600
+02,Other Europe,2004,2004,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.5
+02,Other Europe,2005,2005,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1232
+02,Other Europe,2005,2005,TMA06C2,Visitors to Ireland,Thousand,1917
+02,Other Europe,2005,2005,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.9
+02,Other Europe,2006,2006,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1352
+02,Other Europe,2006,2006,TMA06C2,Visitors to Ireland,Thousand,2281
+02,Other Europe,2006,2006,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.2
+02,Other Europe,2007,2007,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1400
+02,Other Europe,2007,2007,TMA06C2,Visitors to Ireland,Thousand,2590
+02,Other Europe,2007,2007,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.6
+02,Other Europe,2008,2008,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,1503
+02,Other Europe,2008,2008,TMA06C2,Visitors to Ireland,Thousand,2610
+02,Other Europe,2008,2008,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.4
+03,USA and Canada,1983,1983,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,131
+03,USA and Canada,1983,1983,TMA06C2,Visitors to Ireland,Thousand,292
+03,USA and Canada,1983,1983,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.4
+03,USA and Canada,1984,1984,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,166
+03,USA and Canada,1984,1984,TMA06C2,Visitors to Ireland,Thousand,324
+03,USA and Canada,1984,1984,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.3
+03,USA and Canada,1985,1985,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,216
+03,USA and Canada,1985,1985,TMA06C2,Visitors to Ireland,Thousand,404
+03,USA and Canada,1985,1985,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.2
+03,USA and Canada,1986,1986,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,173
+03,USA and Canada,1986,1986,TMA06C2,Visitors to Ireland,Thousand,327
+03,USA and Canada,1986,1986,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.2
+03,USA and Canada,1987,1987,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,197
+03,USA and Canada,1987,1987,TMA06C2,Visitors to Ireland,Thousand,383
+03,USA and Canada,1987,1987,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11
+03,USA and Canada,1988,1988,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,202
+03,USA and Canada,1988,1988,TMA06C2,Visitors to Ireland,Thousand,401
+03,USA and Canada,1988,1988,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.5
+03,USA and Canada,1989,1989,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,222
+03,USA and Canada,1989,1989,TMA06C2,Visitors to Ireland,Thousand,417
+03,USA and Canada,1989,1989,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.1
+03,USA and Canada,1990,1990,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,208
+03,USA and Canada,1990,1990,TMA06C2,Visitors to Ireland,Thousand,434
+03,USA and Canada,1990,1990,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.5
+03,USA and Canada,1991,1991,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,190
+03,USA and Canada,1991,1991,TMA06C2,Visitors to Ireland,Thousand,342
+03,USA and Canada,1991,1991,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.4
+03,USA and Canada,1992,1992,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,196
+03,USA and Canada,1992,1992,TMA06C2,Visitors to Ireland,Thousand,405
+03,USA and Canada,1992,1992,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.7
+03,USA and Canada,1993,1993,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,225
+03,USA and Canada,1993,1993,TMA06C2,Visitors to Ireland,Thousand,406
+03,USA and Canada,1993,1993,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.1
+03,USA and Canada,1994,1994,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,263
+03,USA and Canada,1994,1994,TMA06C2,Visitors to Ireland,Thousand,474
+03,USA and Canada,1994,1994,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.6
+03,USA and Canada,1995,1995,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,340
+03,USA and Canada,1995,1995,TMA06C2,Visitors to Ireland,Thousand,617
+03,USA and Canada,1995,1995,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.3
+03,USA and Canada,1996,1996,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,390
+03,USA and Canada,1996,1996,TMA06C2,Visitors to Ireland,Thousand,703
+03,USA and Canada,1996,1996,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10.1
+03,USA and Canada,1997,1997,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,436
+03,USA and Canada,1997,1997,TMA06C2,Visitors to Ireland,Thousand,764
+03,USA and Canada,1997,1997,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.9
+03,USA and Canada,1998,1998,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,484
+03,USA and Canada,1998,1998,TMA06C2,Visitors to Ireland,Thousand,855
+03,USA and Canada,1998,1998,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.6
+03,USA and Canada,1999,1999,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,549
+03,USA and Canada,1999,1999,TMA06C2,Visitors to Ireland,Thousand,943
+03,USA and Canada,1999,1999,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.5
+03,USA and Canada,2000,2000,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,679
+03,USA and Canada,2000,2000,TMA06C2,Visitors to Ireland,Thousand,1043
+03,USA and Canada,2000,2000,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.6
+03,USA and Canada,2001,2001,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,713
+03,USA and Canada,2001,2001,TMA06C2,Visitors to Ireland,Thousand,912
+03,USA and Canada,2001,2001,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.7
+03,USA and Canada,2002,2002,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,705
+03,USA and Canada,2002,2002,TMA06C2,Visitors to Ireland,Thousand,849
+03,USA and Canada,2002,2002,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.6
+03,USA and Canada,2003,2003,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,784
+03,USA and Canada,2003,2003,TMA06C2,Visitors to Ireland,Thousand,904
+03,USA and Canada,2003,2003,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,10
+03,USA and Canada,2004,2004,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,769
+03,USA and Canada,2004,2004,TMA06C2,Visitors to Ireland,Thousand,977
+03,USA and Canada,2004,2004,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.3
+03,USA and Canada,2005,2005,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,731
+03,USA and Canada,2005,2005,TMA06C2,Visitors to Ireland,Thousand,953
+03,USA and Canada,2005,2005,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.5
+03,USA and Canada,2006,2006,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,803
+03,USA and Canada,2006,2006,TMA06C2,Visitors to Ireland,Thousand,1055
+03,USA and Canada,2006,2006,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9
+03,USA and Canada,2007,2007,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,806
+03,USA and Canada,2007,2007,TMA06C2,Visitors to Ireland,Thousand,1073
+03,USA and Canada,2007,2007,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.1
+03,USA and Canada,2008,2008,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,660
+03,USA and Canada,2008,2008,TMA06C2,Visitors to Ireland,Thousand,1005
+03,USA and Canada,2008,2008,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,9.3
+04,Other Areas,1983,1983,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,20
+04,Other Areas,1983,1983,TMA06C2,Visitors to Ireland,Thousand,60
+04,Other Areas,1983,1983,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.2
+04,Other Areas,1984,1984,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,24
+04,Other Areas,1984,1984,TMA06C2,Visitors to Ireland,Thousand,63
+04,Other Areas,1984,1984,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.4
+04,Other Areas,1985,1985,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,34
+04,Other Areas,1985,1985,TMA06C2,Visitors to Ireland,Thousand,78
+04,Other Areas,1985,1985,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.3
+04,Other Areas,1986,1986,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,33
+04,Other Areas,1986,1986,TMA06C2,Visitors to Ireland,Thousand,76
+04,Other Areas,1986,1986,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12
+04,Other Areas,1987,1987,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,32
+04,Other Areas,1987,1987,TMA06C2,Visitors to Ireland,Thousand,66
+04,Other Areas,1987,1987,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,14.8
+04,Other Areas,1988,1988,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,44
+04,Other Areas,1988,1988,TMA06C2,Visitors to Ireland,Thousand,82
+04,Other Areas,1988,1988,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,14.4
+04,Other Areas,1989,1989,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,56
+04,Other Areas,1989,1989,TMA06C2,Visitors to Ireland,Thousand,109
+04,Other Areas,1989,1989,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,15.2
+04,Other Areas,1990,1990,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,58
+04,Other Areas,1990,1990,TMA06C2,Visitors to Ireland,Thousand,118
+04,Other Areas,1990,1990,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,14.4
+04,Other Areas,1991,1991,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,61
+04,Other Areas,1991,1991,TMA06C2,Visitors to Ireland,Thousand,102
+04,Other Areas,1991,1991,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,16.3
+04,Other Areas,1992,1992,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,57
+04,Other Areas,1992,1992,TMA06C2,Visitors to Ireland,Thousand,111
+04,Other Areas,1992,1992,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.5
+04,Other Areas,1993,1993,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,67
+04,Other Areas,1993,1993,TMA06C2,Visitors to Ireland,Thousand,116
+04,Other Areas,1993,1993,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13
+04,Other Areas,1994,1994,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,95
+04,Other Areas,1994,1994,TMA06C2,Visitors to Ireland,Thousand,150
+04,Other Areas,1994,1994,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.3
+04,Other Areas,1995,1995,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,117
+04,Other Areas,1995,1995,TMA06C2,Visitors to Ireland,Thousand,190
+04,Other Areas,1995,1995,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.6
+04,Other Areas,1996,1996,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,114
+04,Other Areas,1996,1996,TMA06C2,Visitors to Ireland,Thousand,174
+04,Other Areas,1996,1996,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.4
+04,Other Areas,1997,1997,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,121
+04,Other Areas,1997,1997,TMA06C2,Visitors to Ireland,Thousand,201
+04,Other Areas,1997,1997,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.1
+04,Other Areas,1998,1998,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,128
+04,Other Areas,1998,1998,TMA06C2,Visitors to Ireland,Thousand,216
+04,Other Areas,1998,1998,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12
+04,Other Areas,1999,1999,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,141
+04,Other Areas,1999,1999,TMA06C2,Visitors to Ireland,Thousand,233
+04,Other Areas,1999,1999,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.5
+04,Other Areas,2000,2000,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,175
+04,Other Areas,2000,2000,TMA06C2,Visitors to Ireland,Thousand,256
+04,Other Areas,2000,2000,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,11.6
+04,Other Areas,2001,2001,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,207
+04,Other Areas,2001,2001,TMA06C2,Visitors to Ireland,Thousand,260
+04,Other Areas,2001,2001,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.8
+04,Other Areas,2002,2002,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,227
+04,Other Areas,2002,2002,TMA06C2,Visitors to Ireland,Thousand,245
+04,Other Areas,2002,2002,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,15.1
+04,Other Areas,2003,2003,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,235
+04,Other Areas,2003,2003,TMA06C2,Visitors to Ireland,Thousand,249
+04,Other Areas,2003,2003,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,15.9
+04,Other Areas,2004,2004,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,255
+04,Other Areas,2004,2004,TMA06C2,Visitors to Ireland,Thousand,317
+04,Other Areas,2004,2004,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,14
+04,Other Areas,2005,2005,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,234
+04,Other Areas,2005,2005,TMA06C2,Visitors to Ireland,Thousand,285
+04,Other Areas,2005,2005,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,13.4
+04,Other Areas,2006,2006,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,265
+04,Other Areas,2006,2006,TMA06C2,Visitors to Ireland,Thousand,314
+04,Other Areas,2006,2006,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,12.4
+04,Other Areas,2007,2007,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,326
+04,Other Areas,2007,2007,TMA06C2,Visitors to Ireland,Thousand,317
+04,Other Areas,2007,2007,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,14.5
+04,Other Areas,2008,2008,TMA06C1,Expenditure by Visitors to Ireland,Euro Million,315
+04,Other Areas,2008,2008,TMA06C2,Visitors to Ireland,Thousand,352
+04,Other Areas,2008,2008,TMA06C3,Average Length of Stay in Nights by Visitors to Ireland,Nights,15.2
